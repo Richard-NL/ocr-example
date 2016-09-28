@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475089478 source:/home/richard/workspace/ocr/main.cpp
+	<iostream>
+	<tesseract/baseapi.h>
+	<leptonica/allheaders.h>
+
